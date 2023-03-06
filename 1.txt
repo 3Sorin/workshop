@@ -1,3 +1,2 @@
 Hello world!
 This is GIT workshop!
-This is the last line!
